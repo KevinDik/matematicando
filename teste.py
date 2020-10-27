@@ -1,0 +1,4 @@
+from modelos.calcular import Calcular
+
+calc = Calcular(1)
+print(calc)
