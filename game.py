@@ -23,7 +23,7 @@ def jogar(pontos):
         print('Até a próxima')
 
 
-def main():
+def __main__():
     pontos = 0
     jogar(pontos)
 
