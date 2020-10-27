@@ -53,5 +53,5 @@ class Calcular:
     def checar_resultado(self, resposta):
         pass
 
-    def mostar_operacao(self):
+    def mostrar_operacao(self):
         pass
