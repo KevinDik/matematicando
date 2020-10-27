@@ -28,5 +28,5 @@ def main():
     jogar(pontos)
 
 
-if __name__ == '__main__':
+if __name__ == '__main__':  # inicializacao do game
     main()
